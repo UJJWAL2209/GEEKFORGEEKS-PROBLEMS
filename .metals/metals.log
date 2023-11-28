@@ -3,3 +3,6 @@
 2023.11.27 22:57:32 WARN  no build tool detected in workspace 'C:\Users\ASUS\Desktop\PROJECTS_DS\GEEKFORGEEKS-PROBLEMS'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Nov 27, 2023 11:07:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.11.27 23:15:18 INFO  Shutting down server
+2023.11.27 23:15:18 INFO  shutting down Metals
+2023.11.27 23:15:18 INFO  Exiting server
